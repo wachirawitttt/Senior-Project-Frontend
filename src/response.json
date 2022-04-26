@@ -1,0 +1,110 @@
+[
+    {
+        "indexs": 0,
+        "date": "9/2/2022",
+        "homeTeam": "Newcastle",
+        "awayTeam": "Everton",
+        "fthg": 0,
+        "ftag": 0,
+        "ftr": "A",
+        "prob_A": "40.7179%",
+        "prob_D": "25.952984%",
+        "prob_H": "33.329117%"
+    },
+    {
+        "indexs": 1,
+        "date": "9/2/2022",
+        "homeTeam": "West Ham",
+        "awayTeam": "Watford",
+        "fthg": 0,
+        "ftag": 0,
+        "ftr": "H",
+        "prob_A": "14.532328%",
+        "prob_D": "22.111732%",
+        "prob_H": "63.35594%"
+    },
+    {
+        "indexs": 2,
+        "date": "9/2/2022",
+        "homeTeam": "Burnley",
+        "awayTeam": "Man United",
+        "fthg": 0,
+        "ftag": 0,
+        "ftr": "A",
+        "prob_A": "58.56979%",
+        "prob_D": "27.142218%",
+        "prob_H": "14.287996%"
+    },
+    {
+        "indexs": 3,
+        "date": "10/2/2022",
+        "homeTeam": "Man City",
+        "awayTeam": "Brentford",
+        "fthg": 0,
+        "ftag": 0,
+        "ftr": "H",
+        "prob_A": "2.808484%",
+        "prob_D": "13.968301%",
+        "prob_H": "83.22322%"
+    },
+    {
+        "indexs": 4,
+        "date": "10/2/2022",
+        "homeTeam": "Norwich",
+        "awayTeam": "Crystal Palace",
+        "fthg": 0,
+        "ftag": 0,
+        "ftr": "H",
+        "prob_A": "32.249607%",
+        "prob_D": "30.256632%",
+        "prob_H": "37.493763%"
+    },
+    {
+        "indexs": 5,
+        "date": "10/2/2022",
+        "homeTeam": "Tottenham",
+        "awayTeam": "Southampton",
+        "fthg": 0,
+        "ftag": 0,
+        "ftr": "H",
+        "prob_A": "15.080902%",
+        "prob_D": "27.770542%",
+        "prob_H": "57.14856%"
+    },
+    {
+        "indexs": 6,
+        "date": "10/2/2022",
+        "homeTeam": "Aston Villa",
+        "awayTeam": "Leeds",
+        "fthg": 0,
+        "ftag": 0,
+        "ftr": "H",
+        "prob_A": "23.848894%",
+        "prob_D": "26.813692%",
+        "prob_H": "49.337414%"
+    },
+    {
+        "indexs": 7,
+        "date": "11/2/2022",
+        "homeTeam": "Liverpool",
+        "awayTeam": "Leicester",
+        "fthg": 0,
+        "ftag": 0,
+        "ftr": "H",
+        "prob_A": "12.434832%",
+        "prob_D": "22.135895%",
+        "prob_H": "65.42927%"
+    },
+    {
+        "indexs": 8,
+        "date": "11/2/2022",
+        "homeTeam": "Wolves",
+        "awayTeam": "Arsenal",
+        "fthg": 0,
+        "ftag": 0,
+        "ftr": "H",
+        "prob_A": "28.68748%",
+        "prob_D": "32.01261%",
+        "prob_H": "39.299904%"
+    }
+]
